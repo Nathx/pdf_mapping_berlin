@@ -5,4 +5,6 @@ The Data Intelligence Team is searching for a new top analyst. We already know o
 * A probability distribution centred around the Brandenburg Gate also informs us of the candidate's location. The distribution’s radial profile is log-normal with a mean of 4700m and a mode of 3877m in every direction.
 * A satellite offers further information: with 95% probability she is located within 2400 m distance of the satellite’s path (assuming a normal probability distribution)
 
+Solution screenshot:
+
 ![](maps/final_map_screenshot.png)
