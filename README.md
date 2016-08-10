@@ -8,3 +8,11 @@ The Data Intelligence Team is searching for a new top analyst. We already know o
 Solution screenshot:
 
 ![](maps/final_map_screenshot.png)
+
+To view the full solution embedded in Google Maps, clone the repo and open locally the files in `maps/`.
+
+To recreate the solution after cloning the repo:
+```
+cd code
+python main.py
+```
